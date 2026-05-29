@@ -176,27 +176,3 @@ Developer
 
 \---
 
-
-
-\## Interview Question
-
-
-
-Difference between Image and Container?
-
-
-
-Image:
-
-\- Blueprint
-
-\- Read-only
-
-
-
-Container:
-
-\- Running instance
-
-\- Writable layer
-
